@@ -16,6 +16,8 @@ public class HelloWorld {
         System.out.println("You entered: " + number);
     }
 }
+new code added by the dev1 here
+<<<<<<< Updated upstream
 
 //added by the dev2
 // Your First Program
@@ -25,3 +27,6 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
+=======
+
+>>>>>>> Stashed changes
